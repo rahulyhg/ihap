@@ -27,7 +27,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
           id: 5451646545,
           completed: 'checked'
         }, {
-          title: 'Read an article about Test-Driven Development',
+          title: 'Read an post about Test-Driven Development',
           id: 5428646545,
           completed: ''
         }];
